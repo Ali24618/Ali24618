@@ -20,12 +20,6 @@
 
 ---
 
-## 📈 Статистика GitHub
-
-![Статистика](https://github-readme-stats.vercel.app/api?username=ваше_имя&show_icons=true&theme=radical)
-
----
-
 ## 📫 Как со мной связаться?
 
 - Email: your-email@example.com  
