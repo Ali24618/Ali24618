@@ -28,6 +28,9 @@ v<h1 align="center">🧠 Али Зайнабидинов</h1>
 ---
 
 ## 📞 Связь
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%23075E54.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/996701550087)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minecity618@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%230068FF.svg?style=for-the-badge&logo=telegram&logoColor=white)
 
 - 📧 **Email**: minecity618@gmail.com  
 - ☎️ **Номер**: +996 701 55 00 87  
