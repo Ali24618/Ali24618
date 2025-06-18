@@ -1,8 +1,6 @@
 v<h1 align="center">🧠 Али Зайнабидинов</h1>
 <p align="center">Программист. Логик</p>
 
----
-
 ## 🛠 Мой стек
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,16 +14,12 @@ v<h1 align="center">🧠 Али Зайнабидинов</h1>
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
-
 ## 📈 GitHub Статистика
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ali24618&show_icons=true&theme=tokyonight&hide=prs&card_width=400" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali24618&layout=compact&theme=tokyonight&card_width=400" />
 </p>
-
----
 
 ## 📞 Связь
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%23075E54.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/996701550087)
