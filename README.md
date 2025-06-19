@@ -1,4 +1,4 @@
-v<h1 align="center">🧠 Али Зайнабидинов</h1>
+<h1 align="center">🧠 Али Зайнабидинов</h1>
 <p align="center">Программист. Логик</p>
 
 ## 🛠 Мой стек
@@ -17,9 +17,10 @@ v<h1 align="center">🧠 Али Зайнабидинов</h1>
 ## 📈 GitHub Статистика
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ali24618&show_icons=true&theme=tokyonight&hide=prs&card_width=400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali24618&layout=compact&theme=tokyonight&card_width=400" />
+  <img width="470" height="170" src="https://github-readme-stats.vercel.app/api?username=lDetectivo&show_icons=true&theme=tokyonight&hide=prs&card_width=400" />
+  <img width="470" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lDetectivo&layout=compact&theme=tokyonight&card_width=400" />
 </p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LDetectivo&theme=tokyo-night" />
 
 ## 📞 Связь
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%23075E54.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/996701550087)
