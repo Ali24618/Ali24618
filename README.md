@@ -1,5 +1,5 @@
 <h1 align="center">🧠 Али Зайнабидинов</h1>
-<p align="center">Full-stack developer</p>
+<h3><p align="center"><b>Full-stack developer<b/></p></h3>
 
 ## 🛠 Мой стек
 
